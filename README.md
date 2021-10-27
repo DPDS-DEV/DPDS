@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DavidPdeSales
+- 👀 I’m interested in new projects and job opportunities
+- 🌱 I’m currently learning Web development, CSS Java and HTML
